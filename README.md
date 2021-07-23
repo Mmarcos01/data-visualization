@@ -12,4 +12,5 @@
 
 ## Change Log
 1.1: Setup and Initialize repo - 20 Jul 2021  
-1.2: Feature Tasks dataset A - 21 Jul 2021
+1.2: Feature Tasks dataset A - 21 Jul 2021  
+1.2: Feature Tasks dataset B - 22 Jul 2021
